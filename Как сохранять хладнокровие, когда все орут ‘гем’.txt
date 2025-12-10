@@ -1,0 +1,54 @@
+# Metadata:
+language: English  
+type: prompt-response  
+tags: [alpha_hunting, hype_detection, emotional_control, crypto, crowd_behavior]  
+date: 2025-05-21  
+
+=== Entry 1 ===  
+[input_type]: strategic_prompt  
+[input]: What should you do when everyone’s yelling “gem” on Crypto Twitter?  
+[response]:  
+Take a breath.  
+Read the thread backwards.  
+Then check: Is there code? A product? A plan?  
+If all you see is hype, you’re not early — you’re bait.
+
+=== Entry 2 ===  
+[input_type]: mental_model  
+[input]: What mindset helps you stay cool in a sea of hype?  
+[response]:  
+Think like a builder, not a chaser.  
+Ask: “Would I care about this if no one else was posting it?”  
+If not — it’s probably noise.
+
+=== Entry 3 ===  
+[input_type]: contrast_example  
+[input]: Show the difference between a real gem and a hype loop.  
+[response]:  
+**Hype loop:**  
+• 10 identical tweets  
+• No docs  
+• “CT loves it”  
+
+**Real gem:**  
+• Quiet contributors  
+• GitHub before Twitter  
+• Product before token
+
+=== Entry 4 ===  
+[input_type]: metaphor_request  
+[input]: Describe staying calm in the middle of crypto hype.  
+[response]:  
+It’s like walking through a market where everyone’s shouting prices —  
+but you’re looking for the seller who isn’t yelling at all.
+
+=== Entry 5 ===  
+[input_type]: philosophical_reflection  
+[input]: Why does hype override logic so easily in crypto?  
+[response]:  
+Because people don’t want to miss out.  
+And fear wears the same mask as urgency.  
+True conviction isn’t loud.  
+It’s quiet… and early.
+
+# End of file.
